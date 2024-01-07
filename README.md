@@ -83,4 +83,4 @@ View the gallery of plots in the `plots/` directory for detailed visualizations.
    **Plot showing the predicted Instagram reach based on a forecasting model.**
 
 ### 7. Entire Plots of the image that been created as a interface to host on the web
-![Entire_dash](https://github.com/kaifshaheemj/Instagram_Reach/blob/main/screencapture-127-0-0-1-5500-index-html-2024-01-07-14_42_16.png?raw=true)
+![Entire_dash](https://github.com/kaifshaheemj/Instagram_Reach/blob/main/Instagram%20Reach%20Analysis%20Images_files/Dashboard.png)
