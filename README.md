@@ -1,5 +1,3 @@
-# Instagram_Reach
-Reach and Trend Analysis
 # Instagram Reach Analysis
 
 ## Overview
@@ -50,29 +48,30 @@ Instagram Reach Analysis is a project focused on analyzing Instagram reach data 
    ```bash
    jupyter notebook "Instagram Reach Analysis.ipynb"
 
-Gallery
-View the gallery of plots in the plots/ directory for detailed visualizations. Here are some key visualizations:
+## Gallery
 
-1. **Reach Plot**
+View the gallery of plots in the `plots/` directory for detailed visualizations. Here are some key visualizations:
 
-This plot shows the Instagram reach over time.
+### 1. Reach Plot
+   ![Reach Plot](plots/Reach_plot.png)
+   This plot shows the Instagram reach over time.
 
-2. **Instagram Box Plot**
+### 2. Instagram Box Plot
+   ![Instagram Box Plot](plots/Instagram_box_plot.png)
+   A box plot representing Instagram reach distribution.
 
-A box plot representing Instagram reach distribution.
+### 3. Autocorrelation Plot
+   ![Autocorrelation Plot](plots/autocorr_plot.png)
+   Autocorrelation plot for the Instagram reach time series.
 
-3. **Autocorrelation Plot**
+### 4. Partial Autocorrelation Plot
+   ![Partial Autocorrelation Plot](plots/pacf_plot.png)
+   Partial autocorrelation plot for the Instagram reach data.
 
-Autocorrelation plot for the Instagram reach time series.
+### 5. Instagram Reach by Day
+   ![Instagram Reach by Day](plots/instagram_reach_by_day.png)
+   Analysis of Instagram reach based on different days of the week.
 
-4. **Partial Autocorrelation Plot**
-
-Partial autocorrelation plot for the Instagram reach data.
-
-5. **Instagram Reach by Day**
-
-Analysis of Instagram reach based on different days of the week.
-
-6. **Instagram Reach Prediction Plot**
-
-Plot showing the predicted Instagram reach based on a forecasting model.
+### 6. Instagram Reach Prediction Plot
+   ![Instagram Reach Prediction Plot](plots/insta_reach_prediction_plot.png)
+   Plot showing the predicted Instagram reach based on a forecasting model.
