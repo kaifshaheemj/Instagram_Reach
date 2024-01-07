@@ -53,25 +53,31 @@ Instagram Reach Analysis is a project focused on analyzing Instagram reach data 
 View the gallery of plots in the `plots/` directory for detailed visualizations. Here are some key visualizations:
 
 ### 1. Reach Plot
-   ![Reach Plot](plots/Reach_plot.png)
-   This plot shows the Instagram reach over time.
+   ![Reach Plot](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/Reach_plot.png)
+   
+   **This plot shows the Instagram reach over time.**
 
 ### 2. Instagram Box Plot
-   ![Instagram Box Plot](plots/Instagram_box_plot.png)
-   A box plot representing Instagram reach distribution.
+   ![Instagram Box Plot](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/Instagram_box_plot.png)
+   
+   **A box plot representing Instagram reach distribution.**
 
 ### 3. Autocorrelation Plot
-   ![Autocorrelation Plot](plots/autocorr_plot.png)
-   Autocorrelation plot for the Instagram reach time series.
+   ![Autocorrelation Plot](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/autocorr_plot.png)
+   
+   **Autocorrelation plot for the Instagram reach time series.**
 
 ### 4. Partial Autocorrelation Plot
-   ![Partial Autocorrelation Plot](plots/pacf_plot.png)
-   Partial autocorrelation plot for the Instagram reach data.
+   ![Partial Autocorrelation Plot](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/pacf_plot.png)
+   
+   **Partial autocorrelation plot for the Instagram reach data.**
 
 ### 5. Instagram Reach by Day
-   ![Instagram Reach by Day](plots/instagram_reach_by_day.png)
-   Analysis of Instagram reach based on different days of the week.
+   ![Instagram Reach by Day](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/instagram_reach_by_day.png)
+   
+   **Analysis of Instagram reach based on different days of the week.**
 
 ### 6. Instagram Reach Prediction Plot
-   ![Instagram Reach Prediction Plot](plots/insta_reach_prediction_plot.png)
-   Plot showing the predicted Instagram reach based on a forecasting model.
+   ![Instagram Reach Prediction Plot](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/insta_reach_prediction_plot.png)
+   
+   **Plot showing the predicted Instagram reach based on a forecasting model.**
